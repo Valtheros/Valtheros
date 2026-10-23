@@ -37,7 +37,7 @@ An AILAB integration based on the open-source [Label Studio](https://labelstud.i
 ## Recognition
 
 - **Cyber Hero Chiang Rai CTF** — 5th place, university category.
-- **AI for Thai Service Onboarding** — Top-15 finalist with ILMU THAI.
+- **NECTEC AI for Thai Service Onboarding** — Top-15 finalist with ILMU THAI.
 - **ICPC Thailand National Contest** — Qualified through the regional selection.
 
 ## Contact
