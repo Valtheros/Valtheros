@@ -5,6 +5,7 @@
 Computer Science student at **Prince of Songkla University**, Thailand.
 
 I build web applications with Next.js, React, TypeScript, and Python, and explore practical uses of AI. I'm currently looking for an internship where I can learn and contribute to a team.
+
 **Portfolio :** https://flukfolio.vercel.app
 
 ## Selected projects
