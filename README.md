@@ -22,11 +22,6 @@ A no-code computer vision training platform. The web interface handles datasets 
 **Next.js · TypeScript · FastAPI · Python · Redis · PostgreSQL · Docker**  
 [Frontend](https://github.com/Valtheros/AILAB-font) · [Backend](https://github.com/Valtheros/AILAB-Backend)
 
-### Label Studio integration for AILAB
-
-An AILAB integration based on the open-source [Label Studio](https://labelstud.io/) data annotation project. Credit for the original platform belongs to the Label Studio contributors.
-
-[Integration repository](https://github.com/Valtheros/LabelstudioForAILAB)
 
 ## Tech stack
 
